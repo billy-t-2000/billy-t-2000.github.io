@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Towns" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Towns</name>
+	<open>1</open>
+	<snippet></snippet>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://billy-t-2000.github.io/data/icons8-sphere-32.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://billy-t-2000.github.io/data/icons8-sphere-32.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark id="ID_00000">
+		<name>Cowes</name>
+		<snippet></snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cowes</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Town</td>
+
+<td>Cowes</td>
+
+</tr>
+
+<tr>
+
+<td>Easting</td>
+
+<td>449620</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Northing</td>
+
+<td>96040</td>
+
+</tr>
+
+<tr>
+
+<td>Placename</td>
+
+<td>Cowes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Population</td>
+
+<td>16278</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-1.297825296999974,50.76182709107612,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="ID_00001">
+		<name>Newport</name>
+		<snippet></snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Newport</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Town</td>
+
+<td>Newport</td>
+
+</tr>
+
+<tr>
+
+<td>Easting</td>
+
+<td>450320</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Northing</td>
+
+<td>89360</td>
+
+</tr>
+
+<tr>
+
+<td>Placename</td>
+
+<td>Newport</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Population</td>
+
+<td>20324</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-1.288811277999969,50.70170022907573,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="ID_00002">
+		<name>Ryde</name>
+		<snippet></snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ryde</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Town</td>
+
+<td>Ryde</td>
+
+</tr>
+
+<tr>
+
+<td>Easting</td>
+
+<td>459540</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Northing</td>
+
+<td>92540</td>
+
+</tr>
+
+<tr>
+
+<td>Placename</td>
+
+<td>Ryde</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Population</td>
+
+<td>19843</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-1.15775371199993,50.72942486107591,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="ID_00003">
+		<name>Bembridge</name>
+		<snippet></snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bembridge</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Town</td>
+
+<td>Bembridge</td>
+
+</tr>
+
+<tr>
+
+<td>Easting</td>
+
+<td>465180</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Northing</td>
+
+<td>87740</td>
+
+</tr>
+
+<tr>
+
+<td>Placename</td>
+
+<td>Bembridge</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Population</td>
+
+<td>3452</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-1.078698482999926,50.68566080407565,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="ID_00004">
+		<name>Brading</name>
+		<snippet></snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Brading</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Town</td>
+
+<td>Brading</td>
+
+</tr>
+
+<tr>
+
+<td>Easting</td>
+
+<td>460860</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Northing</td>
+
+<td>86980</td>
+
+</tr>
+
+<tr>
+
+<td>Placename</td>
+
+<td>Brading</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Population</td>
+
+<td>2071</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-1.139968632999967,50.67929401407558,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="ID_00005">
+		<name>East Cowes</name>
+		<snippet></snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>East Cowes</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Town</td>
+
+<td>East Cowes</td>
+
+</tr>
+
+<tr>
+
+<td>Easting</td>
+
+<td>450700</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Northing</td>
+
+<td>95640</td>
+
+</tr>
+
+<tr>
+
+<td>Placename</td>
+
+<td>East Cowes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Population</td>
+
+<td>209</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-1.282568890999926,50.75813718407613,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="ID_00006">
+		<name>Sandown</name>
+		<snippet></snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sandown</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Town</td>
+
+<td>Sandown</td>
+
+</tr>
+
+<tr>
+
+<td>Easting</td>
+
+<td>459940</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Northing</td>
+
+<td>84240</td>
+
+</tr>
+
+<tr>
+
+<td>Placename</td>
+
+<td>Sandown</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Population</td>
+
+<td>4813</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-1.153431638999962,50.65475172507541,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="ID_00007">
+		<name>Shanklin</name>
+		<snippet></snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Shanklin</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Town</td>
+
+<td>Shanklin</td>
+
+</tr>
+
+<tr>
+
+<td>Easting</td>
+
+<td>458600</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Northing</td>
+
+<td>81260</td>
+
+</tr>
+
+<tr>
+
+<td>Placename</td>
+
+<td>Shanklin</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Population</td>
+
+<td>8140</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-1.172856115999934,50.62809215507524,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="ID_00008">
+		<name>Totland</name>
+		<snippet></snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Totland</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Town</td>
+
+<td>Totland</td>
+
+</tr>
+
+<tr>
+
+<td>Easting</td>
+
+<td>433360</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Northing</td>
+
+<td>87440</td>
+
+</tr>
+
+<tr>
+
+<td>Placename</td>
+
+<td>Totland</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Population</td>
+
+<td>2316</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-1.529131408999945,50.68565336107564,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="ID_00009">
+		<name>Ventnor</name>
+		<snippet></snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ventnor</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Town</td>
+
+<td>Ventnor</td>
+
+</tr>
+
+<tr>
+
+<td>Easting</td>
+
+<td>456420</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Northing</td>
+
+<td>77660</td>
+
+</tr>
+
+<tr>
+
+<td>Placename</td>
+
+<td>Ventnor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Population</td>
+
+<td>6458</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-1.204220044999943,50.59593627607509,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
